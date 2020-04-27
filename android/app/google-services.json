@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087541609312",
+    "firebase_url": "https://covidupd.firebaseio.com",
+    "project_id": "covidupd",
+    "storage_bucket": "covidupd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087541609312:android:390a282e8d29771a2f5405",
+        "android_client_info": {
+          "package_name": "com.example.pain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087541609312-hfthf5v45bvjuood79pp5dgkadg5pkkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUYOGojaE8fDM-rTzLDxwzDe7HnlwojU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087541609312-hfthf5v45bvjuood79pp5dgkadg5pkkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
